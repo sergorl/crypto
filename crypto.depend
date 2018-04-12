@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1523524978 source:/home/serg/cpp_codeblocks/crypto/main.cpp
+	<iostream>
+	<secp256k1.h>
+	<ecc.h>
+	<storage.h>
+
+1523454622 /home/serg/beam/secp256k1-zkp/include/secp256k1.h
+	<stddef.h>
+
+1523442835 /home/serg/beam/core/ecc.h
+	<stdint.h>
+	<string.h>
+
+1523524548 /home/serg/cpp_codeblocks/crypto/storage.h
+	<stdio.h>
+	<fstream>
+
+1523526895 source:/home/serg/cpp_codeblocks/crypto/storage.cpp
+	<storage.h>
+
